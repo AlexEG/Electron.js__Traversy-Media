@@ -1,0 +1,25 @@
+{
+  "name": "electron.js__traversy-media",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": " app to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexEG/Electron.js__Traversy-Media.git"
+  },
+  "author": "AlexEG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexEG/Electron.js__Traversy-Media/issues"
+  },
+  "homepage": "https://github.com/AlexEG/Electron.js__Traversy-Media#readme",
+  "dependencies": {
+    "electron": "^24.3.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
